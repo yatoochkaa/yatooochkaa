@@ -1,5 +1,9 @@
 ## <h1 align="center">🖐️👨‍🎓Привет, я Артём!</h1>
-<p <img src="https://img.shields.io/badge/ITMO-студент-blue?style=for-the-badge" alt="ITMO" /> <img src="https://img.shields.io/badge/C++-learning-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/Git-GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/ITMO-студент-blue?style=for-the-badge" alt="ITMO" />
+  <img src="https://img.shields.io/badge/C++-learning-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Git-GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
 ## `Time to lock in. Без усилия нет прогресса.`
 
@@ -16,15 +20,15 @@
 ## <p align="center">🎯 Цели по жизни </p>
 №|	Цель	                        |Статус
 -|----------------------------------|-------------------------
-1|	Поступить в ИТМО	            |✅ Выполнена
-2|	Отучиться 1 курс	            |⏳ Не выполнена
-3|	Отучиться 2 курс	            |⏳ Не выполнена
-4|	Отучиться 3 курс	            |⏳ Не выполнена
-5|	Отучиться 4 курс	            |⏳ Не выполнена
-6|	Магистратура, 1 курс	        |⏳ Не выполнена
-7|	Магистратура, 2 курс	        |⏳ Не выполнена
-8|	Переезд в Китай	                |⏳ Не выполнена
-9|	Купить спорткар Xiaomi YU7 GT	|⏳ Не выполнена
+1|	Поступить в ИТМО	            |[x]
+2|	Отучиться 1 курс	            |[]
+3|	Отучиться 2 курс	            |[]
+4|	Отучиться 3 курс	            |[]
+5|	Отучиться 4 курс	            |[]
+6|	Магистратура, 1 курс	        |[]
+7|	Магистратура, 2 курс	        |[]
+8|	Переезд в Китай	                |[]
+9|	Купить спорткар Xiaomi YU7 GT	|[]
 
 ## <p align="center">💡 Немного кода</p>
 Быстрая сортировка на C++ (QuickSort):
