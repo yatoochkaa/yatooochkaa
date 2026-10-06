@@ -1,9 +1,9 @@
 ## <h1 align="center">🖐️👨‍🎓Привет, я Артём!</h1>
-<p> <img src="https://img.shields.io/badge/ITMO-студент-blue?style=for-the-badge" alt="ITMO" /> <img src="https://img.shields.io/badge/C++-learning-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/Git-GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> </p>
+<p <img src="https://img.shields.io/badge/ITMO-студент-blue?style=for-the-badge" alt="ITMO" /> <img src="https://img.shields.io/badge/C++-learning-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/Git-GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> </p>
 
 ## `Time to lock in. Без усилия нет прогресса.`
 
-## <p> align="center">🚀 Обо мне</p>
+## <p align="center">🚀 Обо мне</p>
 1. 🎓 Студент первого курса ИТМО
 2. 💻 Учусь программировать и пишу на C++
 3. 🔧 Осваиваю Git и работу с репозиториями
@@ -13,7 +13,7 @@
 7. Языки: C++
 8. Инструменты: Git, GitHub
 9. Сейчас изучаю: алгоритмы и структуры данных
-## <p> align="center">🎯 Цели по жизниб</p>
+## <p align="center">🎯 Цели по жизни </p>
 №|	Цель	                        |Статус
 -|----------------------------------|-------------------------
 1|	Поступить в ИТМО	            |✅ Выполнена
@@ -26,7 +26,7 @@
 8|	Переезд в Китай	                |⏳ Не выполнена
 9|	Купить спорткар Xiaomi YU7 GT	|⏳ Не выполнена
 
-## <p> align="center">💡 Немного кода</p>
+## <p align="center">💡 Немного кода</p>
 Быстрая сортировка на C++ (QuickSort):
 ```cpp
 #include <iostream>
@@ -69,4 +69,4 @@ int main() {
 }
 ```
 ## <p align="center">📊 Статистика GitHub</p>
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?yatoochkaa=yatoochkaa`&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yatoochkaa&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=yatoochkaa&theme=tokyonight&hide_border=true" alt="GitHub streak" /> </p>
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=yatoochkaa`&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yatoochkaa&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=yatoochkaa&theme=tokyonight&hide_border=true" alt="GitHub streak" /> </p>
