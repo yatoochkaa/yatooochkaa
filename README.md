@@ -69,4 +69,4 @@ int main() {
 }
 ```
 ## <p align="center">📊 Статистика GitHub</p>
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=yatoochkaa`&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yatoochkaa&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=yatoochkaa&theme=tokyonight&hide_border=true" alt="GitHub streak" /> </p>
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=yatoochkaa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yatoochkaa&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=yatoochkaa&theme=tokyonight&hide_border=true" alt="GitHub streak" /> </p>
