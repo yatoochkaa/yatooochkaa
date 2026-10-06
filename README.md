@@ -3,7 +3,7 @@
 
 ## `Time to lock in. Без усилия нет прогресса.`
 
-## 
+## <p> align="center">🚀 Обо мне</p>
 1. 🎓 Студент первого курса ИТМО
 2. 💻 Учусь программировать и пишу на C++
 3. 🔧 Осваиваю Git и работу с репозиториями
@@ -13,9 +13,9 @@
 7. Языки: C++
 8. Инструменты: Git, GitHub
 9. Сейчас изучаю: алгоритмы и структуры данных
-## <p align="center">🎯 Цели по жизни/p>
--|----------------------------------|-------------------------
+## <p> align="center">🎯 Цели по жизниб</p>
 №|	Цель	                        |Статус
+-|----------------------------------|-------------------------
 1|	Поступить в ИТМО	            |✅ Выполнена
 2|	Отучиться 1 курс	            |⏳ Не выполнена
 3|	Отучиться 2 курс	            |⏳ Не выполнена
@@ -26,7 +26,7 @@
 8|	Переезд в Китай	                |⏳ Не выполнена
 9|	Купить спорткар Xiaomi YU7 GT	|⏳ Не выполнена
 
-## <p align="center">💡 Немного кода</p>
+## <p> align="center">💡 Немного кода</p>
 Быстрая сортировка на C++ (QuickSort):
 ```cpp
 #include <iostream>
@@ -68,5 +68,5 @@ int main() {
   return 0;
 }
 ```
-📊 Статистика GitHub
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak" /> </p>
+## <p align="center">📊 Статистика GitHub</p>
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?yatoochkaa=yatoochkaa`&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yatoochkaa&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=yatoochkaa&theme=tokyonight&hide_border=true" alt="GitHub streak" /> </p>
